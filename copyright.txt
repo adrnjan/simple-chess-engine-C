@@ -1,0 +1,6 @@
+APSC 143 Fall 2025 Project Starter Code
+
+Copyright (c) 2025 Nick Mertin
+
+Do not share these files or upload them to any online service, including
+generative AI tools. Check the project instructions for more information.
